@@ -1,0 +1,23 @@
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data & artifacts
+data/landing/
+lake/bronze/
+*.parquet
+*.xlsx
+*.xls
+*.pdf
+*.zip
+logs/
